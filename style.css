@@ -10,7 +10,7 @@
     height: 100vh;
     display: flex;
     justify-content: center;
-    background-color: #1e8b5e;
+    background-color: #0b3910;
     color: white;
   }
   
@@ -42,7 +42,7 @@
   
   button {
     cursor: pointer;
-    background-color: #232027;
+    background-color: #6e1919;
     color: white;
   }
   
